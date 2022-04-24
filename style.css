@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(255, 230, 4);
+    font-family: sans-serif;
+    color: blueviolet;
+    
+}
+  
+img {border:2px inset black;}
+.creeper{border-radius: 50%;}
